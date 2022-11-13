@@ -1,0 +1,69 @@
+.card{
+  width: 350px;
+  box-shadow: 3px 3px grey;
+  border-radius: 7px;
+  margin: 10px auto;
+  text-align: center;
+}
+.card img{
+  width: 300px;
+  border-radius: 10px;
+}
+nav{
+  display: flex;
+  padding: 1% 5%;
+  justify-content: space-between;
+  align-items: center;
+  background-color: bisque;
+}
+nav img{
+  width: 60px;
+  border-radius: 100%;
+}
+.nav-links ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 7px 12px;
+
+}
+.nav-links ul li a{
+  text-decoration: none;
+  font-size: 16px;
+  color: blue;
+}
+.twitter{
+  font-size: 30px;
+  color: red;
+}
+.booklist{
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+}
+
+form{
+  width: 500px;
+  height: 300px;
+  margin: 10px auto;
+  background-color: aliceblue;
+  box-shadow: 1px 2px 4px 0px #b0b0b0;
+  border-radius: 10px;
+  padding: 50px;
+}
+.form-control{
+  margin-top: 20px;
+
+}
+.form-control input{
+  width: 400px;
+  height: 40px;
+  border-radius: 10px;
+}
+form button{
+  margin-top: 15px;
+  background-color: bisque;
+  width: 100px;
+  height: 30px;
+  border-radius: 7px;
+}
