@@ -16,6 +16,7 @@ const About = () => {
       </a>
 
       <FaTwitter />
+      <h1>Test</h1>
       <p className="text-danger text-center">
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius, ipsam?
         Cum repellat doloribus quod numquam dolor excepturi ad reprehenderit
